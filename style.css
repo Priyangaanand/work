@@ -1,0 +1,126 @@
+body
+{
+    font-weight:normal;
+    font-family: 'Jomhuria', cursive;
+    font-size:2rem;
+    color:#000;
+}
+h2{
+    font-size:2rem;
+    font-weight:lighter;
+}
+
+#Frontpage
+{
+    background-color:#c6e0e0;
+}
+/* navigation styling */
+.navbar
+{
+ Padding:3% 5%;
+}
+.navbar-brand
+{
+    font-weight:"bold" ;
+    font-size:5rem;
+    font-family: 'Jomhuria', cursive;
+}
+.next-front
+{
+    padding:3% 5%;
+}
+.first-heading{
+    padding-bottom:3%;
+    font-size:5rem;
+    line-height:5rem;
+}
+.online-cooking
+{
+    width:100%;
+    
+}
+.front-button
+{
+ margin:11% 4% 11% 2%;
+font-size:2rem;
+}
+.icons{
+    
+    padding-right:5%;
+    padding-top:3%;
+    height:25px;
+    
+}
+
+/* Features */
+#Features
+{
+    padding-top:5%;
+    padding-bottom:10%;
+    padding-left:3%;
+    padding-right:3%;
+}
+.Feature-heading
+{
+    font-size:3rem;
+    padding:3% 5%;
+    text-align: center;
+}
+.Feature-heading-2 
+{
+font-size:3rem;
+line-height: normal;
+text-align:center;
+padding-top:3%;
+}
+.feature-p
+{
+ font-weight:lighter;
+ font-size:1.8rem;
+}
+.button-style
+{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+/* testimonial desing */
+#testimonials
+{
+    background-color:#c6e0e0;
+    text-align:center;
+}
+
+.chicken-img
+{
+    width:45%;
+
+}
+.testimonial-heading
+{
+        padding: 3% 5%;
+        font-family:'Jomhuria', cursive;
+        text-align:center;
+        font-size:3rem;
+        line-height:3rem;
+}
+.test-p
+{
+    padding-top:3%;
+    color:rgb(228, 102, 102);
+}
+.carousel-item
+{
+    padding:5% 25%;
+}
+/* footer-styling */
+#cta
+{
+    padding-top:15%;
+    text-align:center;
+    color:grey;
+    font-weight:lighter;
+}
+.icons-foot
+{
+    width:1rem;
+    height:1rem;
+}
